@@ -7,3 +7,5 @@ Capturas de pantalla del ejercicio de ova:
 <img width="743" height="498" alt="Captura de pantalla 2026-11-26 085327" src="https://github.com/user-attachments/assets/aa96ce52-a263-44d4-a287-eeb6ab20f27e" />
 
 <img width="1125" height="618" alt="Captura de pantalla 2026-11-26 085542" src="https://github.com/user-attachments/assets/5a23b869-c3d0-42d2-b154-e1578ce47e24" />
+
+<img width="1291" height="765" alt="Captura de pantalla 2026-11-26 091601" src="https://github.com/user-attachments/assets/9e57545d-567a-4299-a943-a787b7703604" />
